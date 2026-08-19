@@ -12,7 +12,7 @@ export const profile = {
   email: "ramanoangel23@gmail.com",
   github: "https://github.com/dashboard",
   linkedin: "https://www.linkedin.com/in/angel-ramano-70b148261/",
-  cv: "/angel-ramano-cv.pdf",
+  cv: cvAsset.url,
 };
 
 export const navItems = [

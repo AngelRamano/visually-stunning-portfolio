@@ -1,3 +1,5 @@
+import cvAsset from "@/assets/angel-ramano-cv.pdf.asset.json";
+
 export const profile = {
   name: "Angel Ramano",
   role: "Migration, Security & Governance Researcher",

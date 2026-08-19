@@ -37,12 +37,12 @@ export function Hero() {
           </Reveal>
           <Reveal delay={80}>
             <h1 className="mt-5 text-4xl leading-[1.08] text-primary sm:text-5xl lg:text-[3.6rem]">
-              Researching how states frame
+              Researching how the securitization of
               <span className="relative mx-2 inline-block">
                 <span className="relative z-10">migration</span>
                 <span className="absolute inset-x-0 bottom-1 z-0 h-3 bg-accent/70" />
               </span>
-              as security
+              impacts individuals on the ground
             </h1>
           </Reveal>
           <Reveal delay={160}>
